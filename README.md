@@ -1,1 +1,2 @@
 # Number-Guessing-Game
+This Java program implements a Number Guessing Game where the system generates a random number between 1 and 100 using the Random class. The user is asked to guess the number through console input using the Scanner class. The program checks whether the guess is higher, lower, or equal to the generated number and gives appropriate hints. It also validates the input to ensure the user enters an integer. The game continues in a loop until the correct number is guessed, and finally displays the total number of attempts taken by the user.
